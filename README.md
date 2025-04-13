@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bad33
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in AI/ML
 - 📫 How to reach me @ chaudharyn582@gmail.com
 
 <!---
