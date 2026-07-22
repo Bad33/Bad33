@@ -33,7 +33,7 @@ I build **trustworthy RAG systems**, **explainable machine-learning products**, 
 
 <br clear="right"/>
 
----
+
 
 ## 🚀 Current Focus: PolicyProof
 
@@ -50,7 +50,7 @@ The project is being developed from first principles with controlled corpus inge
 
 **Current phase:** cross-encoder reranking over the accepted BM25 and dense-retrieval candidate pipeline.
 
---
+
 
 
 ## 🛠️ Technology Stack
@@ -109,11 +109,30 @@ I have co-authored research in **clinical machine learning**, **geospatial healt
 
 ## 📊 GitHub Activity
 
+## 📊 GitHub Activity
+
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Bad33&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Nikhil's GitHub statistics">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bad33&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Nikhil's most used GitHub languages">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bad33&theme=github_dark&animation=draw"
+    width="100%"
+    alt="Nikhil Chaudhary's GitHub contribution summary"
+  >
 </div>
 
----
+<br>
+
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bad33&theme=github_dark&animation=load"
+    height="180"
+    alt="Nikhil's repositories by programming language"
+  >
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bad33&theme=github_dark&animation=load"
+    height="180"
+    alt="Nikhil's GitHub statistics"
+  >
+</div>
+
 
 ::: ​​
