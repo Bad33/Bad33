@@ -27,7 +27,7 @@ I build **trustworthy RAG systems**, **explainable machine-learning products**, 
 
 </div>
 
-<img align="right" src="./assets/pixel-coder.gif" width="340" alt="Pixel-art developer building, testing, and shipping software">
+<img align="right" src="./pixel-coder.gif" width="340" alt="Pixel-art developer building, testing, and shipping software">
 
 
 
