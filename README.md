@@ -15,7 +15,7 @@ I build **trustworthy RAG systems**, **explainable machine-learning products**, 
 <a href="https://www.linkedin.com/in/nikhilchaudhary14ry/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="<YOUR_RESUME_URL>">
+<a href="https://github.com/Bad33/Bad33/blob/main/Nikhil_Chaudhary_Resume%20(1).pdf">
   <img src="https://img.shields.io/badge/Résumé-View-333333?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Résumé">
 </a>
 <a href="mailto:chaudharyn582@gmail.com">
@@ -114,7 +114,7 @@ I am interested in opportunities involving:
 📧 **Email:** [chaudharyn582@gmail.com](mailto:chaudharyn582@gmail.com)
 🌐 **Portfolio:** [chaudharynikhil.com](https://chaudharynikhil.com)
 💼 **LinkedIn:** [Nikhil Chaudhary](https://www.linkedin.com/in/nikhilchaudhary14ry/)
-📄 **Résumé:** [View résumé](YOUR_RESUME_URL)
+
 
 ---
 
