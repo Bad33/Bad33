@@ -7,21 +7,25 @@
 I build **trustworthy RAG systems**, **explainable machine-learning products**, and
 **production-oriented software** with an emphasis on evaluation, reproducibility, and measurable impact.
 
-<p>
-  <a href="https://chaudharynikhil.com">
-    <img src="https://img.shields.io/badge/Portfolio-chaudharynikhil.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+<p align="center">
+  <a href="https://chaudharynikhil.com" title="Portfolio">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="30" height="30" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/nikhilchaudhary14ry/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nikhilchaudhary14ry/" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30" alt="LinkedIn">
   </a>
-  <a href="https://scholar.google.com/citations?user=I4RhtJoAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">
+  &nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=I4RhtJoAAAAJ&hl=en" title="Google Scholar">
+    <img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="30" height="30" alt="Google Scholar">
   </a>
-  <a href="https://github.com/Bad33/Bad33/blob/main/Nikhil_Chaudhary_Resume (1).pdf">
-    <img src="https://img.shields.io/badge/Résumé-View-333333?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Résumé">
+  &nbsp;&nbsp;
+  <a href="https://github.com/Bad33/Bad33/blob/main/Nikhil_Chaudhary_Resume%20(1).pdf" title="Résumé">
+    <img src="https://cdn.simpleicons.org/adobeacrobatreader/EC1C24" width="30" height="30" alt="Résumé">
   </a>
-  <a href="mailto:chaudharyn582@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  &nbsp;&nbsp;
+  <a href="mailto:chaudharyn582@gmail.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Email">
   </a>
 </p>
 
