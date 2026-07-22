@@ -18,8 +18,9 @@ I build **trustworthy RAG systems**, **explainable machine-learning products**, 
   <a href="https://www.linkedin.com/in/nikhilchaudhary14ry/" title="LinkedIn">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-      width="32"
-      height="32"
+      width="28"
+      height="28"
+      style="vertical-align: middle;"
       alt="LinkedIn"
     >
   </a>
