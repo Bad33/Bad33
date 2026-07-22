@@ -80,25 +80,19 @@ The project is being developed from first principles with controlled corpus inge
 
 ## 📚 Selected Publications
 
-I have co-authored research in **clinical machine learning**, **geospatial health equity**, and **real-world drug-safety analysis**.
+Co-authored research in **clinical machine learning**, **cancer-trial accessibility**, and **FAERS pharmacovigilance**.
 
-### Clinical Machine Learning
+* **Machine learning accurately predicts mortality in adult NPM1-mutant Acute Myeloid Leukemia using baseline clinical and genomic features**
+  *Blood*, 2025
 
-**Machine learning accurately predicts mortality in adult NPM1-mutant Acute Myeloid Leukemia using baseline clinical and genomic features**
-*Blood*, Volume 146, 2025
+* **Geographic distribution and equity in access to gastrointestinal cancer clinical trials in the United States**
+  *Journal of Clinical Oncology*, 2026
 
-### Cancer-Trial Accessibility
+* **FAERS safety analysis of Pacritinib**
+  *Clinical Lymphoma, Myeloma and Leukemia*, 2025
 
-**Geographic distribution and equity in access to gastrointestinal cancer clinical trials in the United States**
-*Journal of Clinical Oncology*, Volume 44, Issue 2 Supplement, 2026
-
-### FAERS Pharmacovigilance
-
-**MPN-1356: A Real-World Disproportionality Analysis of the Food and Drug Administration Adverse Event Reporting System Events for Pacritinib**
-*Clinical Lymphoma, Myeloma and Leukemia*, Volume 25, 2025
-
-**CML-1442: A Real-World Disproportionality Analysis of the Food and Drug Administration Adverse Event Reporting System Events for Asciminib**
-*Clinical Lymphoma, Myeloma and Leukemia*, Volume 25, 2025
+* **FAERS safety analysis of Asciminib**
+  *Clinical Lymphoma, Myeloma and Leukemia*, 2025
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=I4RhtJoAAAAJ&hl=en">
@@ -107,7 +101,6 @@ I have co-authored research in **clinical machine learning**, **geospatial healt
 </p>
 
 
-## 📊 GitHub Activity
 
 ## 📊 GitHub Activity
 
