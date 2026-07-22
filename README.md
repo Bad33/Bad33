@@ -29,15 +29,7 @@ I build **trustworthy RAG systems**, **explainable machine-learning products**, 
 
 <img align="right" src="./assets/pixel-coder.gif" width="340" alt="Pixel-art developer building, testing, and shipping software">
 
-## 👨‍💻 About Me
 
-* 💼 **2+ years of software-engineering experience** across Siemens and South Dakota State University.
-* 🧠 Building **PolicyProof**, an evaluated RAG and citation-verification system for AI-governance documents.
-* 🏗️ Built a production-oriented **C#/.NET structural-analysis application** that reduced engineering calculation time by an estimated **60%**.
-* 🌐 Maintained university platforms serving **10,000+ students and faculty**, resolving **40+ production defects**.
-* ⚡ Helped modernize an Angular application at Siemens, reducing front-end load time by nearly **30%**.
-* 🔬 Co-authored research in **clinical machine learning**, **cancer-trial accessibility**, and **FAERS pharmacovigilance**.
-* 📍 Based in the United States and **open to relocation**.
 
 <br clear="right"/>
 
@@ -58,121 +50,8 @@ The project is being developed from first principles with controlled corpus inge
 
 **Current phase:** cross-encoder reranking over the accepted BM25 and dense-retrieval candidate pipeline.
 
----
+--
 
-## 🧠 Featured Engineering Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [PolicyProof](https://github.com/Bad33/policyproof)
-
-Evaluated RAG and citation-verification system for public AI-governance documents.
-
-**Engineering evidence**
-
-* Deterministic BM25 and dense retrieval
-* Source-level and character-level provenance
-* Explicit abstention benchmark cases
-* Reproducible, versioned artifacts
-* Offline, hash-verified model execution
-
-`Python` `BM25` `Dense Retrieval` `ONNX` `pytest`
-
-</td>
-<td width="50%" valign="top">
-
-### [Maguire Water Tank Design Tool](https://github.com/Bad33/Maguire_WaterTankDesign-Tool)
-
-Desktop engineering application for elevated steel water-tank analysis and design.
-
-**Engineering evidence**
-
-* Automated structural load calculations
-* EF Core and SQLite persistence
-* Single- and multi-column workflows
-* Drawing and export functionality
-* Self-contained Windows deployment
-
-`C#` `.NET 8` `WinForms` `EF Core` `SQLite`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [ClaimPilot](https://github.com/Bad33/claimpilot)
-
-Explainable AI claims-triage and document-intelligence platform.
-
-**Engineering evidence**
-
-* Document ingestion and structured extraction
-* Grounded summaries with evidence snippets
-* Interpretable ML complexity prediction
-* Rules-based routing and audit logs
-* Dockerized full-stack workflow
-
-`Python` `FastAPI` `PostgreSQL` `React` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### [GI Cancer Trial Access](https://github.com/Bad33/Access-to-GI-Cancer-Clinical-Trials)
-
-Geospatial analysis of access to gastrointestinal-cancer clinical trials.
-
-**Research evidence**
-
-* Processed 958 clinical trials
-* Integrated more than 4,400 US ZIP codes
-* Combined Census, rurality, and trial-site datasets
-* Modeled population access using geographic distance
-
-`Python` `Pandas` `NumPy` `Geospatial Analysis`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [AML Mortality Prediction](https://github.com/Bad33/AML-Mortality-Prediction)
-
-Clinical and genomic machine-learning pipeline for AML outcome prediction.
-
-**Research evidence**
-
-* Evaluated a 207-patient cohort
-* Nested stratified cross-validation
-* Logistic regression, gradient boosting, and XGBoost
-* Interpretable feature analysis
-
-`Python` `scikit-learn` `XGBoost` `Clinical ML`
-
-</td>
-<td width="50%" valign="top">
-
-### [Spatial Alert Prototype](https://github.com/Bad33/Spatial-alert-prototype)
-
-Geospatial emergency-alert prototype with interactive risk visualization.
-
-**Engineering evidence**
-
-* Interactive maps and heatmaps
-* Risk classification and anomaly detection
-* Random Forest, XGBoost, and Isolation Forest
-* React-based geospatial interface
-
-`Python` `Flask` `React` `Leaflet` `XGBoost`
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Technology Stack
 
@@ -227,27 +106,6 @@ I have co-authored research in **clinical machine learning**, **geospatial healt
   </a>
 </p>
 
----
-
-## 💼 Experience Highlights
-
-* **South Dakota State University — IT Department:** maintained and enhanced MyState and ConnectState for more than 10,000 users; resolved over 40 backend defects and reduced recurring support-ticket volume.
-* **South Dakota State University — Structural Engineering Research:** developed a C#/.NET structural-analysis application for Maguire Iron, automated manual engineering calculations, and deployed a self-contained Windows installer.
-* **Siemens Technologies:** developed a municipal water-supply management platform with Angular, .NET, REST APIs, PostgreSQL, and Docker; contributed to production releases and AngularJS modernization.
-* **HighRadius Technologies:** performed exploratory analysis, feature engineering, and machine-learning evaluation on financial datasets.
-
----
-
-## 🧭 Engineering Principles
-
-* Define measurable evaluation criteria before optimizing a system.
-* Prefer deterministic, reproducible pipelines over unverifiable demos.
-* Preserve provenance and make system limitations visible.
-* Use failing-first tests to protect new production behavior.
-* Avoid unnecessary abstractions until the problem requires them.
-* Treat AI systems as complete software products, not isolated model calls.
-
----
 
 ## 📊 GitHub Activity
 
