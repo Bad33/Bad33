@@ -17,7 +17,8 @@ I build **trustworthy RAG systems**, **explainable machine-learning products**, 
   </a>
   <a href="https://www.linkedin.com/in/nikhilchaudhary14ry/" title="LinkedIn">
     <img
-      src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+      width="32"
       height="32"
       alt="LinkedIn"
     >
