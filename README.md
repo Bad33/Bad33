@@ -9,23 +9,39 @@ I build **trustworthy RAG systems**, **explainable machine-learning products**, 
 
 <p align="center">
   <a href="https://chaudharynikhil.com" title="Portfolio">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="30" height="30" alt="Portfolio">
+    <img
+      src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"
+      height="32"
+      alt="Portfolio"
+    >
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nikhilchaudhary14ry/" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30" alt="LinkedIn">
+    <img
+      src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      height="32"
+      alt="LinkedIn"
+    >
   </a>
-  &nbsp;&nbsp;
   <a href="https://scholar.google.com/citations?user=I4RhtJoAAAAJ&hl=en" title="Google Scholar">
-    <img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="30" height="30" alt="Google Scholar">
+    <img
+      src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"
+      height="32"
+      alt="Google Scholar"
+    >
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/Bad33/Bad33/blob/main/Nikhil_Chaudhary_Resume%20(1).pdf" title="Résumé">
-    <img src="https://cdn.simpleicons.org/adobeacrobatreader/EC1C24" width="30" height="30" alt="Résumé">
+    <img
+      src="https://img.shields.io/badge/-EC1C24?style=for-the-badge&logo=googledocs&logoColor=white"
+      height="32"
+      alt="Résumé"
+    >
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:chaudharyn582@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Email">
+    <img
+      src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      height="32"
+      alt="Email"
+    >
   </a>
 </p>
 
