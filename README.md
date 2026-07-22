@@ -17,7 +17,7 @@ I build **trustworthy RAG systems**, **explainable machine-learning products**, 
   <a href="https://scholar.google.com/citations?user=I4RhtJoAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">
   </a>
-  <a href="https://github.com/Bad33/Bad33/blob/main/Nikhil_Chaudhary_Resume.pdf">
+  <a href="https://github.com/Bad33/Bad33/blob/main/Nikhil_Chaudhary_Resume (1).pdf">
     <img src="https://img.shields.io/badge/Résumé-View-333333?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Résumé">
   </a>
   <a href="mailto:chaudharyn582@gmail.com">
@@ -116,28 +116,4 @@ I have co-authored research in **clinical machine learning**, **geospatial healt
 
 ---
 
-## 🤝 Let's Connect
-
-I am open to opportunities in:
-
-`AI Engineering` · `Machine Learning Engineering` · `Software Engineering`
-`RAG and Information Retrieval` · `Applied AI Research` · `Forward-Deployed Engineering`
-
-<p align="center">
-  <a href="mailto:chaudharyn582@gmail.com">
-    <img src="https://img.shields.io/badge/Email-chaudharyn582%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/nikhilchaudhary14ry/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Chaudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://chaudharynikhil.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-</p>
-
-<div align="center">
-
-### Building AI systems that can be evaluated, explained, and trusted.
-
-</div>
 ::: ​​
