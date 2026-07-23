@@ -124,4 +124,27 @@ Co-authored research in **clinical machine learning**, **cancer-trial accessibil
   </a>
 </p>
 
+## 📊 GitHub Activity
 
+<div align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+    width="100%"
+    alt="Nikhil Chaudhary's GitHub contribution summary"
+  >
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    width="49%"
+    alt="Nikhil's repositories by programming language"
+  >
+  <img
+    src="./profile-summary-card-output/github_dark/3-stats.svg"
+    width="49%"
+    alt="Nikhil's GitHub statistics"
+  >
+</div>
