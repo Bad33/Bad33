@@ -125,31 +125,3 @@ Co-authored research in **clinical machine learning**, **cancer-trial accessibil
 </p>
 
 
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bad33&theme=github_dark&animation=draw"
-    width="100%"
-    alt="Nikhil Chaudhary's GitHub contribution summary"
-  >
-</div>
-
-<br>
-
-<div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bad33&theme=github_dark&animation=load"
-    height="180"
-    alt="Nikhil's repositories by programming language"
-  >
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bad33&theme=github_dark&animation=load"
-    height="180"
-    alt="Nikhil's GitHub statistics"
-  >
-</div>
-
-
-::: ​​
