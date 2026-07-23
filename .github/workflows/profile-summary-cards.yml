@@ -22,3 +22,5 @@ jobs:
           USERNAME: Bad33
           BRANCH_NAME: main
           AUTO_PUSH: "true"
+          THEME: github_dark
+          ANIMATION: draw
