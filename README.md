@@ -72,7 +72,7 @@ The project is being developed from first principles with controlled corpus inge
   <img src="https://img.shields.io/badge/Evidence%20Hit%4010-1.0000-D1242F?style=flat-square" alt="Direct evidence hit rate at 10 of 1.0000">
 </p>
 
-**Current phase:** cross-encoder reranking over the accepted BM25 and dense-retrieval candidate pipeline.
+**Current status:** Cross-encoder evaluation is complete. Dense retrieval remains the selected ranking after outperforming the reranker; final retrieval audits are underway.
 
 
 
