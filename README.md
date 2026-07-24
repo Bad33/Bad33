@@ -2,7 +2,7 @@
 
 # Hi, I'm Nikhil Chaudhary 👋
 
-### AI Engineer · Software Engineer
+**AI Engineer · Software Engineer**
 
 Building **trustworthy RAG systems**, **explainable ML products**, and
 **production-oriented software** with measurable impact.
@@ -25,75 +25,149 @@ Building **trustworthy RAG systems**, **explainable ML products**, and
   </a>
 </p>
 
-<img src="./pixel-coder.gif" width="340" alt="Pixel-art developer building, testing, and shipping software">
+<img src="./pixel-coder.gif" width="320" alt="Pixel-art developer building, testing, and shipping software">
 
 </div>
 
----
+<br>
 
-## 🚀 Current Focus
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[PolicyProof](https://github.com/Bad33/policyproof)** is an evaluated RAG and citation-verification system for public AI-governance documents, built with deterministic retrieval evaluation, source provenance, abstention handling, offline model verification, and reproducible artifacts.
+<strong>🚀 Current Focus</strong>
 
-<p>
-  <img src="https://img.shields.io/badge/Tests-429%20Passing-2EA44F?style=flat-square" alt="429 passing tests">
-  <img src="https://img.shields.io/badge/Recall%4010-0.9688-0969DA?style=flat-square" alt="Recall at 10 of 0.9688">
-  <img src="https://img.shields.io/badge/MRR%4010-0.9062-8250DF?style=flat-square" alt="MRR at 10 of 0.9062">
-  <img src="https://img.shields.io/badge/Evidence%20Hit%4010-1.0000-D1242F?style=flat-square" alt="Evidence hit rate at 10 of 1.0000">
-</p>
+<br><br>
+
+<strong><a href="https://github.com/Bad33/policyproof">PolicyProof</a></strong> is an evaluated RAG and citation-verification system for public AI-governance documents.
+
+Built with deterministic retrieval evaluation, source provenance, abstention handling, offline model verification, and reproducible artifacts.
+
+<br>
+
+<img src="https://img.shields.io/badge/Tests-429%20Passing-2EA44F?style=flat-square" alt="429 passing tests">
+<img src="https://img.shields.io/badge/Recall%4010-0.9688-0969DA?style=flat-square" alt="Recall at 10 of 0.9688">
+<img src="https://img.shields.io/badge/MRR%4010-0.9062-8250DF?style=flat-square" alt="MRR at 10 of 0.9062">
+<img src="https://img.shields.io/badge/Evidence%20Hit%4010-1.0000-D1242F?style=flat-square" alt="Evidence hit rate at 10 of 1.0000">
+
+<br><br>
 
 Dense retrieval remains the selected ranking after outperforming the evaluated cross-encoder baseline.
 
----
+</td>
 
-## 🛠️ Technology Stack
+<td width="50%" valign="top">
+
+<strong>🛠️ Core Engineering Stack</strong>
+
+<br><br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,ts,js,fastapi,angular,react,postgres,mysql,sqlite,docker,git,githubactions,linux,pytorch,tensorflow,sklearn,numpy,flask,vite&perline=11" alt="Technology stack">
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,ts,js,fastapi,angular,react,postgres,mysql,sqlite,docker,git,githubactions,linux&perline=5" alt="Core engineering technologies">
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<strong>🧠 AI, Machine Learning & Data</strong>
+
+<br><br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,flask,vite&perline=6" alt="AI and machine learning technologies">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/RAG-4B32C3?style=flat-square" alt="RAG">
-  <img src="https://img.shields.io/badge/BM25%20%2B%20Dense%20Retrieval-0969DA?style=flat-square" alt="BM25 and dense retrieval">
+  <img src="https://img.shields.io/badge/BM25%20%2B%20Dense-0969DA?style=flat-square" alt="BM25 and dense retrieval">
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API">
   <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square" alt="ChromaDB">
   <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX">
   <img src="https://img.shields.io/badge/Pandas%20%7C%20Jupyter-150458?style=flat-square&logo=jupyter&logoColor=white" alt="Pandas and Jupyter">
 </p>
 
----
+</td>
 
-## 📚 Selected Publications
+<td width="50%" valign="top">
 
-Co-authored research in **clinical ML**, **cancer-trial accessibility**, and **FAERS pharmacovigilance**.
+<strong>📚 Selected Publications</strong>
 
-* **AML mortality prediction using clinical and genomic features** — *Blood*, 2025
-* **Geographic equity in GI cancer clinical-trial access** — *Journal of Clinical Oncology*, 2026
-* **FAERS safety analysis of Pacritinib** — *Clinical Lymphoma, Myeloma and Leukemia*, 2025
-* **FAERS safety analysis of Asciminib** — *Clinical Lymphoma, Myeloma and Leukemia*, 2025
+<br><br>
+
+Co-authored research in clinical ML, cancer-trial accessibility, and FAERS pharmacovigilance.
+
+<br><br>
+
+• <strong>AML mortality prediction using clinical and genomic features</strong><br> <em>Blood, 2025</em>
+
+<br>
+
+• <strong>Geographic equity in GI cancer clinical-trial access</strong><br> <em>Journal of Clinical Oncology, 2026</em>
+
+<br>
+
+• <strong>FAERS safety analysis of Pacritinib</strong><br> <em>Clinical Lymphoma, Myeloma and Leukemia, 2025</em>
+
+<br>
+
+• <strong>FAERS safety analysis of Asciminib</strong><br> <em>Clinical Lymphoma, Myeloma and Leukemia, 2025</em>
+
+<br>
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=I4RhtJoAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-View%20Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="View publications on Google Scholar">
+    <img src="https://img.shields.io/badge/Google%20Scholar-View%20Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="View publications on Google Scholar">
   </a>
 </p>
 
----
+</td>
+</tr>
+</table>
 
-## 📊 GitHub Activity
+<br>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<strong>📊 GitHub Activity</strong>
+
+<br><br>
 
 <div align="center">
   <img
     src="./profile-summary-card-output/github_dark/0-profile-details.svg"
     width="100%"
-    alt="Nikhil Chaudhary's GitHub activity"
+    alt="Nikhil Chaudhary's GitHub contribution activity"
   >
 </div>
 
+<br>
+
 <div align="center">
   <img
+    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    width="49%"
+    alt="Nikhil's repositories by programming language"
+  >
+  <img
     src="./profile-summary-card-output/github_dark/3-stats.svg"
-    width="55%"
+    width="49%"
     alt="Nikhil Chaudhary's GitHub statistics"
   >
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+**Building AI systems that can be evaluated, explained, and trusted.**
+
 </div>
