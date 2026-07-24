@@ -1,77 +1,67 @@
 <table>
 <tr>
-<td width="62%" valign="middle">
+<td width="66%" valign="middle">
 
-# Hi, I'm Nikhil Chaudhary 👋
+<h1>Hi, I'm Nikhil Chaudhary 👋</h1>
 
-**AI Engineer · Software Engineer**
+<p><strong>AI Engineer · Software Engineer</strong></p>
 
-I build **trustworthy RAG systems**, **explainable machine-learning products**, and **production-oriented software** with an emphasis on evaluation, reproducibility, and measurable impact.
+<p>I build <strong>trustworthy RAG systems</strong>, <strong>explainable machine-learning products</strong>, and <strong>production-oriented software</strong> with an emphasis on evaluation, reproducibility, and measurable impact.</p>
 
 <p>
   <a href="https://chaudharynikhil.com" title="Portfolio">
-    <img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" alt="Portfolio">
+    <img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" height="28" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/nikhilchaudhary14ry/" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="27" height="27" alt="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="25" height="25" alt="LinkedIn">
   </a>
   <a href="https://scholar.google.com/citations?user=I4RhtJoAAAAJ&hl=en" title="Google Scholar">
-    <img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" height="30" alt="Google Scholar">
+    <img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" height="28" alt="Google Scholar">
   </a>
   <a href="https://github.com/Bad33/Bad33/blob/main/Nikhil_Chaudhary_Resume%20(1).pdf" title="Résumé">
-    <img src="https://img.shields.io/badge/-EC1C24?style=for-the-badge&logo=googledocs&logoColor=white" height="30" alt="Résumé">
+    <img src="https://img.shields.io/badge/-EC1C24?style=for-the-badge&logo=googledocs&logoColor=white" height="28" alt="Résumé">
   </a>
   <a href="mailto:chaudharyn582@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email">
+    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email">
   </a>
 </p>
 
 </td>
 
-<td width="38%" align="center" valign="middle">
+<td width="34%" align="center" valign="middle">
 
-<img src="./pixel-coder.gif" width="290" alt="Pixel-art developer building, testing, and shipping software">
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-<strong>🚀 Current Focus — <a href="https://github.com/Bad33/policyproof">PolicyProof</a></strong>
-
-<br><br>
-
-An evaluated RAG and citation-verification system for public AI-governance documents, built with deterministic retrieval evaluation, source provenance, abstention handling, offline model verification, and reproducible artifacts.
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Tests-429%20Passing-2EA44F?style=flat-square" alt="429 passing tests">
-<img src="https://img.shields.io/badge/Recall%4010-0.9688-0969DA?style=flat-square" alt="Recall at 10 of 0.9688">
-<img src="https://img.shields.io/badge/MRR%4010-0.9062-8250DF?style=flat-square" alt="MRR at 10 of 0.9062">
-<img src="https://img.shields.io/badge/Evidence%20Hit%4010-1.0000-D1242F?style=flat-square" alt="Evidence hit rate at 10 of 1.0000">
-
-<br><br>
-
-Dense retrieval remains the selected ranking after outperforming the evaluated cross-encoder baseline.
+<img src="./pixel-coder.gif" width="250" alt="Pixel-art developer building, testing, and shipping software">
 
 </td>
 </tr>
 </table>
 
-<br>
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<p><strong>🚀 Current Focus — <a href="https://github.com/Bad33/policyproof">PolicyProof</a></strong></p>
+
+<p>An evaluated RAG and citation-verification system for public AI-governance documents, built with deterministic retrieval evaluation, source provenance, abstention handling, offline model verification, and reproducible artifacts.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tests-429%20Passing-2EA44F?style=flat-square" alt="429 passing tests">
+  <img src="https://img.shields.io/badge/Recall%4010-0.9688-0969DA?style=flat-square" alt="Recall at 10 of 0.9688">
+  <img src="https://img.shields.io/badge/MRR%4010-0.9062-8250DF?style=flat-square" alt="MRR at 10 of 0.9062">
+  <img src="https://img.shields.io/badge/Evidence%20Hit%4010-1.0000-D1242F?style=flat-square" alt="Evidence hit rate at 10 of 1.0000">
+</p>
+
+<p>Dense retrieval remains the selected ranking after outperforming the evaluated cross-encoder baseline.</p>
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
 <td width="100%" valign="top">
 
-<strong>🛠️ Technology Stack</strong>
-
-<br><br>
+<p><strong>🛠️ Technology Stack</strong></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,dotnet,ts,js,fastapi,angular,react,postgres,mysql,sqlite,docker,git,githubactions,linux,pytorch,tensorflow,sklearn,numpy,flask,vite&perline=11" alt="Technology stack">
@@ -90,35 +80,21 @@ Dense retrieval remains the selected ranking after outperforming the evaluated c
 </tr>
 </table>
 
-<br>
-
 <table>
 <tr>
-<td width="54%" valign="top">
+<td width="56%" valign="top">
 
-<strong>📚 Selected Publications</strong>
+<p><strong>📚 Selected Publications</strong></p>
 
-<br><br>
+<p>Co-authored research in <strong>clinical machine learning</strong>, <strong>cancer-trial accessibility</strong>, and <strong>FAERS pharmacovigilance</strong>.</p>
 
-Co-authored research in **clinical machine learning**, **cancer-trial accessibility**, and **FAERS pharmacovigilance**.
+<p>• <strong>AML mortality prediction using clinical and genomic features</strong> — <em>Blood, 2025</em></p>
 
-<br><br>
+<p>• <strong>Geographic equity in GI cancer clinical-trial access</strong> — <em>Journal of Clinical Oncology, 2026</em></p>
 
-• <strong>AML mortality prediction using clinical and genomic features</strong><br> <em>Blood, 2025</em>
+<p>• <strong>Pacritinib safety-signal analysis using FAERS</strong> — <em>Clinical Lymphoma, Myeloma and Leukemia, 2025</em></p>
 
-<br><br>
-
-• <strong>Geographic equity in GI cancer clinical-trial access</strong><br> <em>Journal of Clinical Oncology, 2026</em>
-
-<br><br>
-
-• <strong>FAERS safety analysis of Pacritinib</strong><br> <em>Clinical Lymphoma, Myeloma and Leukemia, 2025</em>
-
-<br><br>
-
-• <strong>FAERS safety analysis of Asciminib</strong><br> <em>Clinical Lymphoma, Myeloma and Leukemia, 2025</em>
-
-<br><br>
+<p>• <strong>Asciminib safety-signal analysis using FAERS</strong> — <em>Clinical Lymphoma, Myeloma and Leukemia, 2025</em></p>
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=I4RhtJoAAAAJ&hl=en">
@@ -128,44 +104,20 @@ Co-authored research in **clinical machine learning**, **cancer-trial accessibil
 
 </td>
 
-<td width="46%" valign="top">
+<td width="44%" valign="top">
 
-<strong>📊 GitHub Activity</strong>
+<p><strong>📊 GitHub Activity</strong></p>
 
-<br><br>
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Nikhil Chaudhary's GitHub contribution activity">
+</p>
 
-<div align="center">
-  <img
-    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
-    width="100%"
-    alt="Nikhil Chaudhary's GitHub contribution activity"
-  >
-</div>
-
-<br>
-
-<div align="center">
-  <img
-    src="./profile-summary-card-output/github_dark/3-stats.svg"
-    width="78%"
-    alt="Nikhil Chaudhary's GitHub statistics"
-  >
-</div>
-
-<br>
-
-<div align="center">
-  <sub>Repository statistics generated from public GitHub activity.</sub>
-</div>
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="88%" alt="Nikhil Chaudhary's GitHub statistics">
+</p>
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-<strong>Building AI systems that can be evaluated, explained, and trusted.</strong>
-
-</div>
+<p align="center"><strong>Building AI systems that can be evaluated, explained, and trusted.</strong></p>
