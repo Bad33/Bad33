@@ -40,18 +40,45 @@
 <tr>
 <td width="100%" valign="top">
 
-<p><strong>🚀 Current Focus — <a href="https://github.com/Bad33/policyproof">PolicyProof</a></strong></p>
-
-<p>An evaluated RAG and citation-verification system for public AI-governance documents, built with deterministic retrieval evaluation, source provenance, abstention handling, offline model verification, and reproducible artifacts.</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tests-429%20Passing-2EA44F?style=flat-square" alt="429 passing tests">
-  <img src="https://img.shields.io/badge/Recall%4010-0.9688-0969DA?style=flat-square" alt="Recall at 10 of 0.9688">
-  <img src="https://img.shields.io/badge/MRR%4010-0.9062-8250DF?style=flat-square" alt="MRR at 10 of 0.9062">
-  <img src="https://img.shields.io/badge/Evidence%20Hit%4010-1.0000-D1242F?style=flat-square" alt="Evidence hit rate at 10 of 1.0000">
+<p>
+  <strong>
+    🚀 Current Focus —
+    <a href="https://github.com/Bad33/policyproof">PolicyProof</a>
+  </strong>
 </p>
 
-<p>Dense retrieval remains the selected ranking after outperforming the evaluated cross-encoder baseline.</p>
+<p>
+  A research-driven retrieval and citation-verification system for public
+  AI-governance documents, built with deterministic evaluation, source
+  provenance, evidence-sufficiency assessment, abstention handling, offline
+  model verification, and reproducible artifacts.
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Tests-699%20Passing-2EA44F?style=flat-square"
+    alt="699 passing tests"
+  >
+  <img
+    src="https://img.shields.io/badge/Recall%4010-0.9688-0969DA?style=flat-square"
+    alt="Dense recall at 10 of 0.9688"
+  >
+  <img
+    src="https://img.shields.io/badge/MRR%4010-0.9062-8250DF?style=flat-square"
+    alt="Dense MRR at 10 of 0.9062"
+  >
+  <img
+    src="https://img.shields.io/badge/Evidence%20Hit%4010-1.0000-D1242F?style=flat-square"
+    alt="Direct evidence hit rate at 10 of 1.0000"
+  >
+</p>
+
+<p>
+  The retrieval phase is complete, with dense retrieval retained after BM25,
+  hybrid-candidate, and cross-encoder evaluation. Current work focuses on a
+  leakage-safe, blinded evidence-sufficiency benchmark; the first reviewed
+  14-query label-blind inventory has been published.
+</p>
 
 </td>
 </tr>
