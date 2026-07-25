@@ -75,9 +75,7 @@
 
 <p>
   The retrieval phase is complete, with dense retrieval retained after BM25,
-  hybrid-candidate, and cross-encoder evaluation. Current work focuses on a
-  leakage-safe, blinded evidence-sufficiency benchmark; the first reviewed
-  14-query label-blind inventory has been published.
+  hybrid-candidate, and cross-encoder evaluation. Current work focuses on developing a leakage-safe, blinded evidence-sufficiency benchmark.
 </p>
 
 </td>
