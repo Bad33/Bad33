@@ -89,7 +89,7 @@
 <p><strong>🛠️ Technology Stack</strong></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,ts,js,fastapi,angular,react,postgres,mysql,sqlite,docker,git,githubactions,linux,pytorch,tensorflow,sklearn,numpy,flask,vite&perline=11" alt="Technology stack">
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,ts,js,angular,react,postgres,mysql,docker,git,linux,pytorch,tensorflow" alt="Technology stack">
 </p>
 
 <p align="center">
