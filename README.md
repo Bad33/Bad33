@@ -48,7 +48,7 @@
 <h2 align="center">Featured project</h2>
 
 <table>
-<tr>
+
 <td width="72%" valign="middle">
 
 <h3>
@@ -73,7 +73,7 @@ Built around reproducible document processing, retrieval evaluation, provenance 
 
 </td>
 
-</tr>
+
 </table>
 
 ---
