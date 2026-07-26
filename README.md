@@ -36,15 +36,8 @@
   />
 </p>
 
-<h2 align="center">About me</h2>
 
 <p align="center">
-  I build <strong>reliable AI systems</strong> and <strong>production software</strong><br>
-  focused on retrieval, evaluation, reproducibility, and explainability.
-</p>
-
-<p align="center">
-  🔍 Trustworthy RAG &nbsp;•&nbsp;
   🧠 AI Engineering &nbsp;•&nbsp;
   ⚙️ Software Systems &nbsp;•&nbsp;
   📊 Applied ML
@@ -79,23 +72,7 @@ Built around reproducible document processing, retrieval evaluation, provenance 
 </a>
 
 </td>
-<td width="28%" align="center" valign="middle">
 
-<strong>Evidence first.</strong>
-
-<br>
-
-Reliable retrieval
-
-<br>
-
-Precise citations
-
-<br>
-
-Reproducible results
-
-</td>
 </tr>
 </table>
 
