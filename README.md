@@ -38,15 +38,9 @@
   />
 </p>
 
-<h2 align="center">About me</h2>
+
 
 <p align="center">
-  I build <strong>reliable AI systems</strong> and <strong>production-oriented software</strong><br>
-  with a focus on retrieval, evaluation, reproducibility, and explainability.
-</p>
-
-<p align="center">
-  🔍 Trustworthy RAG &nbsp;•&nbsp;
   🧠 AI Engineering &nbsp;•&nbsp;
   ⚙️ Software Systems &nbsp;•&nbsp;
   📊 Applied ML Research
