@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0ea5e9&height=180&section=header&text=Nikhil%20Chaudhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Software%20Engineer&descAlignY=58&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0ea5e9&height=175&section=header&text=Nikhil%20Chaudhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Software%20Engineer&descAlignY=58&descSize=18"
     width="100%"
     alt="Nikhil Chaudhary"
   />
@@ -31,16 +31,9 @@
 <p align="center">
   <img
     src="./pixel-coder.gif"
-    width="270"
+    width="250"
     alt="Pixel-art developer building and testing software"
   />
-</p>
-
-
-<p align="center">
-  🧠 AI Engineering &nbsp;•&nbsp;
-  ⚙️ Software Systems &nbsp;•&nbsp;
-  📊 Applied ML
 </p>
 
 ---
@@ -48,8 +41,8 @@
 <h2 align="center">Featured project</h2>
 
 <table>
-
-<td width="72%" valign="middle">
+<tr>
+<td width="100%" valign="top">
 
 <h3>
   <a href="https://github.com/Bad33/policyproof">🔎 PolicyProof</a>
@@ -57,12 +50,13 @@
 
 An evaluation-first RAG system that checks whether answers about AI governance are supported by reliable evidence and precise citations.
 
-Built around reproducible document processing, retrieval evaluation, provenance tracking, evidence-sufficiency assessment, and abstention handling.
+The project includes reproducible document processing, lexical and dense retrieval evaluation, source-provenance tracking, evidence-sufficiency assessment, citation verification, and abstention handling.
 
 <p>
   <code>Python</code>
   <code>RAG</code>
   <code>Dense Retrieval</code>
+  <code>BM25</code>
   <code>Evaluation</code>
   <code>AI Governance</code>
 </p>
@@ -72,8 +66,7 @@ Built around reproducible document processing, retrieval evaluation, provenance 
 </a>
 
 </td>
-
-
+</tr>
 </table>
 
 ---
@@ -99,15 +92,25 @@ Built around reproducible document processing, retrieval evaluation, provenance 
 
 <h2 align="center">Research</h2>
 
-<p align="center">
-  Co-author of research in <strong>clinical machine learning</strong>,
-  <strong>cancer-trial accessibility</strong>, and
-  <strong>pharmacovigilance</strong>.
-</p>
+* **AML mortality prediction using clinical and genomic features**
+  Developed machine-learning approaches for predicting mortality outcomes in patients with acute myeloid leukemia.
+  *Blood, 2025*
+
+* **Geographic equity in gastrointestinal cancer clinical-trial access**
+  Studied geographic disparities and accessibility barriers affecting participation in gastrointestinal cancer clinical trials.
+  *Journal of Clinical Oncology, 2026*
+
+* **Pacritinib safety-signal analysis using FAERS**
+  Evaluated real-world adverse-event reports to identify potential safety signals associated with pacritinib.
+  *Clinical Lymphoma, Myeloma and Leukemia, 2025*
+
+* **Asciminib safety-signal analysis using FAERS**
+  Analyzed post-marketing pharmacovigilance data to investigate reported adverse events and potential safety signals associated with asciminib.
+  *Clinical Lymphoma, Myeloma and Leukemia, 2025*
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=I4RhtJoAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/View_Publications-0F172A?style=for-the-badge&logo=googlescholar&logoColor=38BDF8" alt="View publications">
+    <img src="https://img.shields.io/badge/View_All_Publications-0F172A?style=for-the-badge&logo=googlescholar&logoColor=38BDF8" alt="View all publications">
   </a>
 </p>
 
@@ -118,7 +121,7 @@ Built around reproducible document processing, retrieval evaluation, provenance 
 <p align="center">
   <img
     src="./profile-summary-card-output/github_dark/0-profile-details.svg"
-    width="82%"
+    width="78%"
     alt="Nikhil Chaudhary's GitHub activity"
   />
 </p>
@@ -126,7 +129,7 @@ Built around reproducible document processing, retrieval evaluation, provenance 
 <p align="center">
   <img
     src="./profile-summary-card-output/github_dark/3-stats.svg"
-    height="135"
+    height="125"
     alt="Nikhil Chaudhary's GitHub statistics"
   />
 </p>
@@ -143,7 +146,7 @@ Built around reproducible document processing, retrieval evaluation, provenance 
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:312e81,100:0f172a&height=85&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:312e81,100:0f172a&height=75&section=footer"
     width="100%"
     alt=""
   />
