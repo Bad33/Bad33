@@ -129,8 +129,14 @@ The project includes reproducible document processing, lexical and dense retriev
 <p align="center">
   <img
     src="./profile-summary-card-output/github_dark/3-stats.svg"
-    height="125"
+    width="38%"
     alt="Nikhil Chaudhary's GitHub statistics"
+  />
+  &nbsp;
+  <img
+    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    width="38%"
+    alt="Nikhil Chaudhary's top languages"
   />
 </p>
 
