@@ -5,7 +5,6 @@
     alt="Nikhil Chaudhary"
   />
 </p>
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=35&lines=Building+AI+systems+grounded+in+evidence;Evaluating+retrieval%2C+not+just+generating+answers;Turning+research+into+reliable+software"
