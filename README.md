@@ -134,15 +134,6 @@ The project includes reproducible document processing, lexical and dense retriev
   />
 </p>
 
----
-
-<p align="center">
-  <strong>Building AI systems that need evidence, not just confidence.</strong>
-</p>
-
-<p align="center">
-  <a href="mailto:chaudharyn582@gmail.com">Let’s build something useful.</a>
-</p>
 
 <p align="center">
   <img
