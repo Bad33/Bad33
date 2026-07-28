@@ -41,86 +41,76 @@
 
 <table>
 <tr>
-<td width="100%" valign="top">
+
+<td width="33%" valign="top" align="center">
 
 <h3>
   <a href="https://github.com/Bad33/policyproof">🔎 PolicyProof</a>
 </h3>
 
-An evaluation-first RAG system that checks whether answers about AI governance are supported by reliable evidence and precise citations.
+<sub>
+Evaluation-first RAG system for AI-governance questions with evidence sufficiency, citation verification, provenance tracking, and abstention.
+</sub>
 
-Built with reproducible document processing, BM25 and dense retrieval evaluation, source-provenance tracking, evidence-sufficiency assessment, citation verification, and abstention handling.
+<br><br>
 
-<p>
-  <code>Python</code>
-  <code>RAG</code>
-  <code>Dense Retrieval</code>
-  <code>BM25</code>
-  <code>Evaluation</code>
-  <code>AI Governance</code>
-</p>
+<code>Python</code> <code>RAG</code> <code>BM25</code> <code>Dense Retrieval</code>
+
+<br><br>
 
 <a href="https://github.com/Bad33/policyproof">
-  <img src="https://img.shields.io/badge/View_Repository-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View PolicyProof">
+  <img src="https://img.shields.io/badge/View_Repository-0F172A?style=flat-square&logo=github&logoColor=38BDF8" alt="View PolicyProof">
 </a>
 
 </td>
-</tr>
 
-<tr>
-<td width="100%" valign="top">
+<td width="33%" valign="top" align="center">
 
 <h3>
   <a href="https://github.com/Bad33/reproslice">🧩 ReproSlice</a>
 </h3>
 
-An open-source Go CLI and library that minimizes failing JSON payloads while preserving the same externally observed failure.
+<sub>
+Open-source Go CLI and library that minimizes failing JSON payloads while preserving the same observable error.
+</sub>
 
-It repeatedly removes or simplifies parts of a payload, runs a user-defined command, and keeps only the changes that reproduce the target error. The project includes deterministic reduction, timeout handling, repeated failure confirmation, safe file writing, result caching, automated tests, and CI.
+<br><br>
 
-<p>
-  <code>Go</code>
-  <code>CLI</code>
-  <code>Developer Tools</code>
-  <code>JSON</code>
-  <code>Delta Debugging</code>
-  <code>GitHub Actions</code>
-</p>
+<code>Go</code> <code>CLI</code> <code>JSON</code> <code>Developer Tools</code>
+
+<br><br>
 
 <a href="https://github.com/Bad33/reproslice">
-  <img src="https://img.shields.io/badge/View_Repository-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View ReproSlice">
+  <img src="https://img.shields.io/badge/View_Repository-0F172A?style=flat-square&logo=github&logoColor=38BDF8" alt="View ReproSlice">
 </a>
 
 </td>
-</tr>
 
-<tr>
-<td width="100%" valign="top">
+<td width="33%" valign="top" align="center">
 
 <h3>
-  <a href="https://github.com/Bad33/Maguire_WaterTankDesign-Tool">🏗️ Water Tank Design Tool</a>
+  <a href="https://github.com/Bad33/Maguire_WaterTankDesign-Tool">🏗️ Water Tank Tool</a>
 </h3>
 
-A desktop engineering application for configuring, analyzing, and managing elevated water-tank designs.
+<sub>
+Desktop engineering application for configuring water tanks, calculating structural loads, and managing design projects.
+</sub>
 
-The application supports tank geometry, material definitions, wind and seismic loads, engineering calculations, project persistence, design tables, and drawing and export workflows.
+<br><br>
 
-<p>
-  <code>C#</code>
-  <code>.NET 8</code>
-  <code>Windows Forms</code>
-  <code>Entity Framework Core</code>
-  <code>SQLite</code>
-  <code>Engineering Software</code>
-</p>
+<code>C#</code> <code>.NET 8</code> <code>WinForms</code> <code>SQLite</code>
+
+<br><br>
 
 <a href="https://github.com/Bad33/Maguire_WaterTankDesign-Tool">
-  <img src="https://img.shields.io/badge/View_Repository-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View Water Tank Design Tool">
+  <img src="https://img.shields.io/badge/View_Repository-0F172A?style=flat-square&logo=github&logoColor=38BDF8" alt="View Water Tank Tool">
 </a>
 
 </td>
+
 </tr>
 </table>
+
 
 
 ---
