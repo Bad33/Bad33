@@ -37,7 +37,7 @@
 
 ---
 
-<h2 align="center">Featured project</h2>
+<h2 align="center">Featured Projects</h2>
 
 <table>
 <tr>
@@ -49,7 +49,7 @@
 
 An evaluation-first RAG system that checks whether answers about AI governance are supported by reliable evidence and precise citations.
 
-The project includes reproducible document processing, lexical and dense retrieval evaluation, source-provenance tracking, evidence-sufficiency assessment, citation verification, and abstention handling.
+Built with reproducible document processing, BM25 and dense retrieval evaluation, source-provenance tracking, evidence-sufficiency assessment, citation verification, and abstention handling.
 
 <p>
   <code>Python</code>
@@ -66,7 +66,62 @@ The project includes reproducible document processing, lexical and dense retriev
 
 </td>
 </tr>
+
+<tr>
+<td width="100%" valign="top">
+
+<h3>
+  <a href="https://github.com/Bad33/reproslice">🧩 ReproSlice</a>
+</h3>
+
+An open-source Go CLI and library that minimizes failing JSON payloads while preserving the same externally observed failure.
+
+It repeatedly removes or simplifies parts of a payload, runs a user-defined command, and keeps only the changes that reproduce the target error. The project includes deterministic reduction, timeout handling, repeated failure confirmation, safe file writing, result caching, automated tests, and CI.
+
+<p>
+  <code>Go</code>
+  <code>CLI</code>
+  <code>Developer Tools</code>
+  <code>JSON</code>
+  <code>Delta Debugging</code>
+  <code>GitHub Actions</code>
+</p>
+
+<a href="https://github.com/Bad33/reproslice">
+  <img src="https://img.shields.io/badge/View_Repository-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View ReproSlice">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" valign="top">
+
+<h3>
+  <a href="https://github.com/Bad33/Maguire_WaterTankDesign-Tool">🏗️ Water Tank Design Tool</a>
+</h3>
+
+A desktop engineering application for configuring, analyzing, and managing elevated water-tank designs.
+
+The application supports tank geometry, material definitions, wind and seismic loads, engineering calculations, project persistence, design tables, and drawing and export workflows.
+
+<p>
+  <code>C#</code>
+  <code>.NET 8</code>
+  <code>Windows Forms</code>
+  <code>Entity Framework Core</code>
+  <code>SQLite</code>
+  <code>Engineering Software</code>
+</p>
+
+<a href="https://github.com/Bad33/Maguire_WaterTankDesign-Tool">
+  <img src="https://img.shields.io/badge/View_Repository-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View Water Tank Design Tool">
+</a>
+
+</td>
+</tr>
 </table>
+
 
 ---
 
