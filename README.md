@@ -184,7 +184,6 @@ Desktop engineering application for configuring water tanks, calculating structu
   />
 </p>
 
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:312e81,100:0f172a&height=75&section=footer"
