@@ -177,6 +177,7 @@ Desktop engineering application for configuring water tanks, calculating structu
     alt="Nikhil Chaudhary's GitHub statistics"
   />
   &nbsp;
+  
   <img
     src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
     width="38%"
